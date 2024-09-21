@@ -2,7 +2,7 @@
 # FILENAME: main.py
 # SPECIFICATION: . The purpose of the program is to demonstrate a method of information retrieval. One of the most common types of information retrieval is tf-idf. The goal of the program is to read through a CSV file with text phrases (each row of the CSV file representing an individual document) and print out the tf-idf document term matrix.
 # FOR: CS 4250- Assignment #1
-# TIME SPENT: 2 days
+# TIME SPENT: 5 days
 
 import csv
 from math import log10
